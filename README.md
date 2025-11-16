@@ -75,8 +75,9 @@ python main.py delete "Study AI"
 
 
 ---
-**Author:** Shantia  
+**Author:** Shantiya  
 **License:** MIT  
-**GitHub:** [github.com/ShantiyaShamushaki]([https://github.com/shantia](https://github.com/ShantiyaShamushaki))
+**GitHub:** [github.com/ShantiyaShamushaki](https://github.com/ShantiyaShamushaki)
+
 
 
