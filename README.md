@@ -71,11 +71,12 @@ python main.py delete "Study AI"
 
 ## 🧱 Example GUI Layout
 
-![screen shot]([assets/screenshot.png])
+![screen shot](assets/screenshot.png)
 
 
 ---
 **Author:** Shantia  
 **License:** MIT  
 **GitHub:** [github.com/ShantiyaShamushaki]([https://github.com/shantia](https://github.com/ShantiyaShamushaki))
+
 
